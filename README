@@ -1,8 +1,10 @@
-        Linux kernel release 4.x <http://kernel.org/>
+A linux kernel, but not linux.
 
-These are the release notes for Linux version 4.  Read them carefully,
-as they tell you what this is all about, explain how to install the
-kernel, and what to do if something goes wrong. 
+WHAT IS THIS?  
+
+This is a kernel meant to have the same commands of linux but the kernel is completely different. 
+The version is outdated because That was the last open source version. The rest below if from the linux
+documentation.
 
 WHAT IS LINUX?
 
